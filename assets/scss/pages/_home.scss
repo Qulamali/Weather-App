@@ -1,0 +1,22 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 150px;
+    min-height: 100vh;
+    form{
+        input{
+            outline: none;
+            border-radius: 10px;
+            padding: 10px;
+            font-size: 20px;
+        }
+        select{
+            outline: none;
+            border-radius: 10px;
+            padding: 10px;
+            font-size: 20px;
+        }
+    }
+}
